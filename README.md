@@ -1,4 +1,5 @@
 # Bartender Redemption 🍸
+> **Note**: *This project is just starting and is currently a work in progress.*  
 
 **Bartender Redemption** is a thrilling first-person simulation game where every drink you serve could be your ticket to freedom—or your demise. With only 3 days to repay a dangerous debt to the mafia, you'll need precision, skill, and speed to mix, shake, and serve drinks under intense pressure. ⏳
 
